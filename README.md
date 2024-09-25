@@ -13,21 +13,12 @@ Use your knowledge of object-oriented programming and class structure and design
 - **Implement accessor and mutator methods** – Write accessor and mutator methods for instance variables that should be accessible and/or modifiable from outside of the class.
 - **Implement a toString() method** – Write toString() methods in the superclass and subclasses that return information about the state of an object.
 
-## Output
+## UML Diagram
 
-Describe the output in the console that the user will see when they run your project.
+Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-Additionally, for the user input interaction, explain what questions will your project ask and what the user should provide back.
+![UML Diagram for my project](nameOfImageFileHere.png)
 
-## Reflection
+## Description
 
-1. Describe your project.
-    - Write your response here...
-
-2. What are two things about your project that you are proud of?
-
-   - Write your response here...
-
-3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
-
-   - Write your response here...
+Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
